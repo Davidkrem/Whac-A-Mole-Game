@@ -23,4 +23,4 @@ Have fun and relive your childhood with this interactive Whac-A-Mole project.
 Completed
 
 ### **View My Project**
-Coming soon...
+https://davidkrem.github.io/Whac-A-Mole-Game/
